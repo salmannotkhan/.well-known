@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.salmannotkhan.slackstatusupdater.android",
+    "sha256_cert_fingerprints":
+    ["8A:64:7E:43:B8:09:AF:59:55:A0:2F:58:5D:1D:E0:12:44:7B:0C:29:36:84:8C:30:74:8E:FD:15:21:B8:61:6B"]
+  }
+}]
